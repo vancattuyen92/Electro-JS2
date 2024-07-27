@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  background: none;
+  border: none;
+  outline: none;
+}
+button {
+  background: none;
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.a-center {
+  align-items: center;
+}
+
+.j-between {
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
